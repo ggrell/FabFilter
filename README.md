@@ -1,5 +1,5 @@
 # FabFilter
-![Android Weekly](https://androidweekly.net/issues/issue-392/badge)
+![Android Weekly](https://androidweekly.net/issues/issue-392)
 
 Android app to showcase complex UI/Animations with and without MotionLayout.
 
